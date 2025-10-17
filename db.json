@@ -1,0 +1,43 @@
+
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Amal",
+      "email": "amal@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "cart": []
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "The Great Gatsby",
+      "category": "Fiction",
+      "offerPrice": 150,
+      "image": "https://via.placeholder.com/150",
+      "description": "A classic novel by F. Scott Fitzgerald.",
+      "count": 10
+    },
+    {
+      "id": 2,
+      "name": "1984",
+      "category": "Fiction",
+      "offerPrice": 200,
+      "image": "https://via.placeholder.com/150",
+      "description": "A dystopian novel by George Orwell.",
+      "count": 15
+    },
+    {
+      "id": 3,
+      "name": "Python Basics",
+      "category": "Non-Fiction",
+      "offerPrice": 300,
+      "image": "https://via.placeholder.com/150",
+      "description": "A beginner's guide to Python programming.",
+      "count": 8
+    }
+  ],
+  "orders": []
+}
